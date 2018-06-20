@@ -1,0 +1,1 @@
+# teste_tabela_mana
